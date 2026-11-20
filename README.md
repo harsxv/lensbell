@@ -10,6 +10,8 @@ The EZVIZ app only pushes alerts to your phone. Lensbell watches your EZVIZ clou
 
 > **Unofficial.** Lensbell is not affiliated with, endorsed by, or sponsored by EZVIZ. "EZVIZ" is a trademark of its respective owner and is used here only to describe compatibility. Lensbell relies on the community library [pyEzvizApi](https://github.com/RenierM26/pyEzvizApi), which uses the same (undocumented) cloud API as the EZVIZ mobile app, so it may break if EZVIZ changes that API.
 
+<img width="824" height="324" alt="KelpShot-20261120-120659" src="https://github.com/user-attachments/assets/ccc8ae52-980e-4ed6-8265-42fd2a7b777e" />
+
 ## Features
 
 - Native macOS notifications with the capture attached, kept in Notification Center
