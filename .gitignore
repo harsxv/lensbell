@@ -1,0 +1,22 @@
+# Secrets & personal data — never commit these
+ezviz_token*.json
+*token*.json
+state.json
+.region
+.env
+captures/
+*.jpg
+*.jpeg
+*.log
+
+# Build output
+.venv/
+popup
+*.app/
+__pycache__/
+*.pyc
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
